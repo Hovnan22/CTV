@@ -1,0 +1,397 @@
+{
+    "IcoMoonType": "selection",
+    "icons": [
+        {
+            "icon": {
+                "paths": [
+                    "M318 916l58-56 162 162-28 2q-200 0-347-136t-163-334h64q12 120 80 216t174 146zM356 638q28 0 42-14t14-40q0-14-4-24t-12-16q-8-8-19-11t-27-3h-32v-44h32q16 0 26-4t16-10q8-6 12-16t4-20q0-24-14-38-12-12-38-12-10 0-20 4-8 2-16 8-6 6-10 16-4 8-4 18h-56q0-20 8-36t22-28 34-20q18-6 42-6 22 0 44 6 20 6 32 18 14 12 22 30t8 40q0 10-4 20-2 10-8 20-8 10-16 18-10 8-22 14 14 6 26 14 10 8 16 18 6 8 10 22 4 10 4 24 0 22-10 40-8 18-23 31t-35 19-44 6q-22 0-42-6-18-6-34-18t-24-29-8-41h54q0 12 4 21t12 15q6 6 16 10t22 4zM721 385q21 21 33 51 10 32 10 68v16q0 38-10 68-12 30-32 50-20 22-50 34-28 10-64 10h-98v-340h100q36 0 63 11t48 32zM704 520v-16q0-56-24-86-24-28-70-28h-40v246h38q24 0 42-8t30-22q12-16 18-38t6-48zM510 0q200 0 347 136t163 332h-64q-12-118-81-214t-173-146l-58 56-162-162z"
+                ],
+                "width": 1020,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61697,
+                "grid": 0
+            },
+            "properties": { "id": 1, "order": 2, "ligatures": "", "prevSize": 32, "code": 61697, "name": "uniF101" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 0
+        },
+        {
+            "icon": {
+                "paths": ["M470 384l340 214v84l-134-42-334-334v-156q0-28 18-46t45-18 46 18 19 46v234zM42 224l54-54 672 672-54 54-244-244v158l84 64v64l-148-42-150 42v-64l86-64v-234l-342 106v-84l256-160z"],
+                "width": 810,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61698,
+                "grid": 0
+            },
+            "properties": { "id": 2, "order": 3, "ligatures": "", "prevSize": 32, "code": 61698, "name": "uniF102" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 1
+        },
+        {
+            "icon": {
+                "paths": ["M810 682l-340-106v234l84 64v64l-148-42-150 42v-64l86-64v-234l-342 106v-84l342-214v-234q0-28 18-46t45-18 46 18 19 46v234l340 214v84z"],
+                "width": 810,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61699,
+                "grid": 0
+            },
+            "properties": { "id": 3, "order": 4, "ligatures": "", "prevSize": 32, "code": 61699, "name": "uniF103" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 2
+        },
+        {
+            "icon": {
+                "paths": ["M427 86q177 0 302 125t125 301-125 301-302 125-302-125-125-301 125-301 302-125zM426 704q80 0 136-56t56-136-56-136-136-56-136 56-56 136 56 136 136 56zM427 470q17 0 30 12t13 30-13 30-30 12-30-12-13-30 13-30 30-12z"],
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61700,
+                "grid": 0
+            },
+            "properties": { "id": 4, "order": 5, "ligatures": "", "prevSize": 32, "code": 61700, "name": "uniF104" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 3
+        },
+        {
+            "icon": {
+                "paths": ["M748 224q20 22 20 54v532q0 36-25 61t-61 25h-596q-36 0-61-25t-25-61v-532q0-32 20-54l58-72q20-24 50-24h512q30 0 50 24zM384 746l234-234h-148v-86h-172v86h-148zM90 214h588l-40-44h-512z"],
+                "width": 768,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61701,
+                "grid": 0
+            },
+            "properties": { "id": 5, "order": 6, "ligatures": "", "prevSize": 32, "code": 61701, "name": "uniF105" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 4
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M682 128q36 0 61 25t25 61v596q0 36-25 61t-61 25h-596q-36 0-61-25t-25-61v-596q0-36 25-61t61-25h178q14-38 47-62t73-24 73 24 47 62h178zM384 128q-18 0-30 13t-12 30 12 30 30 13 30-13 12-30-12-30-30-13zM384 298q-54 0-91 38t-37 91 37 90 91 37 91-37 37-90-37-91-91-38zM640 810v-60q0-38-47-70t-105-47-104-15-104 15-105 47-47 70v60h512z"
+                ],
+                "width": 768,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61702,
+                "grid": 0
+            },
+            "properties": { "id": 6, "order": 7, "ligatures": "", "prevSize": 32, "code": 61702, "name": "uniF106" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 5
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M682 128q36 0 61 25t25 61v596q0 36-25 61t-61 25h-596q-36 0-61-25t-25-61v-596q0-36 25-61t61-25h178q14-38 47-62t73-24 73 24 47 62h178zM426 768v-86h-84v86h84zM426 598v-256h-84v256h84zM384 214q18 0 30-13t12-30-12-30-30-13-30 13-12 30 12 30 30 13z"
+                ],
+                "width": 768,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61703,
+                "grid": 0
+            },
+            "properties": { "id": 7, "order": 8, "ligatures": "", "prevSize": 32, "code": 61703, "name": "uniF107" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 6
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M682 128q36 0 61 25t25 61v596q0 36-25 61t-61 25h-596q-36 0-61-25t-25-61v-596q0-36 25-61t61-25h178q14-38 47-62t73-24 73 24 47 62h178zM384 128q-18 0-30 13t-12 30 12 30 30 13 30-13 12-30-12-30-30-13zM298 726l342-342-60-60-282 280-110-110-60 60z"
+                ],
+                "width": 768,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61704,
+                "grid": 0
+            },
+            "properties": { "id": 8, "order": 9, "ligatures": "", "prevSize": 32, "code": 61704, "name": "uniF108" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 7
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M682 86q36 0 61 25t25 59v684q0 34-25 59t-61 25h-596q-36 0-61-25t-25-59v-684q0-34 25-59t61-25h178q14-38 47-62t73-24 73 24 47 62h178zM384 86q-18 0-30 12t-12 30 12 30 30 12 30-12 12-30-12-30-30-12zM682 854v-684h-84v128h-428v-128h-84v684h596z"
+                ],
+                "width": 768,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61705,
+                "grid": 0
+            },
+            "properties": { "id": 9, "order": 10, "ligatures": "", "prevSize": 32, "code": 61705, "name": "uniF109" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 8
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M682 128q36 0 61 25t25 61v596q0 36-25 61t-61 25h-596q-36 0-61-25t-25-61v-596q0-36 25-61t61-25h178q14-38 47-62t73-24 73 24 47 62h178zM384 128q-18 0-30 13t-12 30 12 30 30 13 30-13 12-30-12-30-30-13zM554 640v-170h-170v-128l-214 212 214 214v-128h170z"
+                ],
+                "width": 768,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61706,
+                "grid": 0
+            },
+            "properties": { "id": 10, "order": 11, "ligatures": "", "prevSize": 32, "code": 61706, "name": "uniF10A" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 9
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M682 128q36 0 61 25t25 61v596q0 36-25 61t-61 25h-596q-36 0-61-25t-25-61v-596q0-36 25-61t61-25h178q14-38 47-62t73-24 73 24 47 62h178zM384 128q-18 0-30 13t-12 30 12 30 30 13 30-13 12-30-12-30-30-13zM384 768l214-214h-128v-170h-172v170h-128z"
+                ],
+                "width": 768,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61707,
+                "grid": 0
+            },
+            "properties": { "id": 11, "order": 12, "ligatures": "", "prevSize": 32, "code": 61707, "name": "uniF10B" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 10
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M682 170q36 0 61 25t25 61v598q0 34-25 59t-61 25h-596q-36 0-61-25t-25-59v-598q0-36 25-61t61-25h178q14-38 47-61t73-23 73 23 47 61h178zM384 170q-18 0-30 13t-12 30 12 30 30 13 30-13 12-30-12-30-30-13zM470 768v-86h-300v86h300zM598 598v-86h-428v86h428zM598 426v-84h-428v84h428z"
+                ],
+                "width": 768,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61708,
+                "grid": 0
+            },
+            "properties": { "id": 12, "order": 13, "ligatures": "", "prevSize": 32, "code": 61708, "name": "uniF10C" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 11
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M406 256h64v490q0 98-69 167t-166 69-166-69-69-167v-532q0-72 50-122t121-50 121 50 50 122v448q0 44-32 75t-76 31-75-31-31-75v-406h64v406q0 16 13 29t30 13 30-13 13-29v-448q0-44-32-76t-76-32-75 32-31 76v532q0 72 50 122t121 50 121-50 50-122v-490z"
+                ],
+                "width": 470,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61709,
+                "grid": 0
+            },
+            "properties": { "id": 13, "order": 14, "ligatures": "", "prevSize": 32, "code": 61709, "name": "uniF10D" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 12
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M234 746q-96 0-165-68t-69-166 69-166 165-68h448q72 0 122 50t50 120-50 120-122 50h-362q-44 0-75-31t-31-75 31-75 75-31h320v64h-320q-18 0-30 12t-12 30 12 30 30 12h362q44 0 76-31t32-75-32-75-76-31h-448q-70 0-120 50t-50 120 50 120 120 50h406v64h-406z"
+                ],
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61710,
+                "grid": 0
+            },
+            "properties": { "id": 14, "order": 15, "ligatures": "", "prevSize": 32, "code": 61710, "name": "uniF10E" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 13
+        },
+        {
+            "icon": { "paths": ["M256 128h298v128h-170v470h-2q-8 72-62 121t-128 49q-80 0-136-56t-56-136 56-136 136-56q30 0 64 12v-396z"], "width": 554, "isMulticolor": false, "isMulticolor2": false, "defaultCode": 61711, "grid": 0 },
+            "properties": { "id": 15, "order": 16, "ligatures": "", "prevSize": 32, "code": 61711, "name": "uniF10F" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 14
+        },
+        {
+            "icon": {
+                "paths": ["M682 42q36 0 61 25t25 61v552q0 46-38 70l-346 232-346-232q-38-24-38-70v-552q0-36 25-61t61-25h596zM298 682l384-384-60-60-324 324-152-152-60 60z"],
+                "width": 768,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61712,
+                "grid": 0
+            },
+            "properties": { "id": 16, "order": 17, "ligatures": "", "prevSize": 32, "code": 61712, "name": "uniF110" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 15
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M768 768v42q0 36-25 61t-61 25h-596q-36 0-61-25t-25-61v-596q0-36 25-61t61-25h596q36 0 61 25t25 61v42h-384q-36 0-61 25t-25 61v340q0 36 25 61t61 25h384zM384 682v-340h426v340h-426zM555 576q27 0 45-19t18-45-18-45-45-19-46 19-19 45 19 45 46 19z"
+                ],
+                "width": 810,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61713,
+                "grid": 0
+            },
+            "properties": { "id": 17, "order": 18, "ligatures": "", "prevSize": 32, "code": 61713, "name": "uniF111" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 16
+        },
+        {
+            "icon": {
+                "paths": ["M86 426h128v300h-128v-300zM342 426h128v300h-128v-300zM0 938v-128h810v128h-810zM598 426h128v300h-128v-300zM406 42l404 214v86h-810v-86z"],
+                "width": 810,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61714,
+                "grid": 0
+            },
+            "properties": { "id": 18, "order": 19, "ligatures": "", "prevSize": 32, "code": 61714, "name": "uniF112" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 17
+        },
+        {
+            "icon": {
+                "paths": ["M370 170q24 0 40 17t16 41v654q0 24-16 40t-40 16h-314q-22 0-39-16t-17-40v-654q0-24 17-41t39-17h72v-84h170v84h72zM256 768v-86h-86v86h86zM256 598v-214h-86v214h86z"],
+                "width": 426,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61715,
+                "grid": 0
+            },
+            "properties": { "id": 19, "order": 20, "ligatures": "", "prevSize": 32, "code": 61715, "name": "uniF113" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 18
+        },
+        {
+            "icon": {
+                "paths": ["M370 170q24 0 40 17t16 41v654q0 24-16 40t-40 16h-314q-22 0-39-16t-17-40v-654q0-24 17-41t39-17h72v-84h170v84h72zM170 854l172-320h-86v-236l-170 320h84v236z"],
+                "width": 426,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61716,
+                "grid": 0
+            },
+            "properties": { "id": 20, "order": 21, "ligatures": "", "prevSize": 32, "code": 61716, "name": "uniF114" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 19
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M370 170q24 0 40 17t16 41v654q0 24-16 40t-40 16h-314q-22 0-39-16t-17-40v-654q0-24 17-41t39-17h72v-84h170v84h72zM254 766v-82h-82v82h82zM312 542q30-30 30-72 0-54-38-91t-91-37-90 37-37 91h64q0-28 18-46t45-18 46 18 19 45-20 45l-40 40q-38 42-38 86h68q0-32 34-68z"
+                ],
+                "width": 426,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61717,
+                "grid": 0
+            },
+            "properties": { "id": 21, "order": 22, "ligatures": "", "prevSize": 32, "code": 61717, "name": "uniF115" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 20
+        },
+        {
+            "icon": {
+                "paths": ["M370 170q24 0 40 17t16 41v654q0 24-16 40t-40 16h-314q-22 0-39-16t-17-40v-654q0-24 17-41t39-17h72v-84h170v84h72z"],
+                "width": 426,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61718,
+                "grid": 0
+            },
+            "properties": { "id": 22, "order": 23, "ligatures": "", "prevSize": 32, "code": 61718, "name": "uniF116" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 21
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M661 234q-35 0-60-25t-25-60 25-60 60-25 60 25 25 60-25 60-60 25zM213 512q89 0 151 62t62 151-62 151-151 62-151-62-62-151 62-151 151-62zM213 874q61 0 105-44t44-105-44-105-105-44-105 44-44 105 44 105 105 44zM460 448l94 98v264h-84v-212l-138-120q-24-20-24-60 0-34 24-60l120-120q20-24 60-24 36 0 68 24l82 82q64 64 152 64v86q-128 0-216-90l-34-34zM811 512q89 0 151 62t62 151-62 151-151 62-151-62-62-151 62-151 151-62zM811 874q61 0 105-44t44-105-44-105-105-44-105 44-44 105 44 105 105 44z"
+                ],
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61719,
+                "grid": 0
+            },
+            "properties": { "id": 23, "order": 24, "ligatures": "", "prevSize": 32, "code": 61719, "name": "uniF117" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 22
+        },
+        {
+            "icon": {
+                "paths": ["M427 86q177 0 302 125t125 301-125 301-302 125-302-125-125-301 125-301 302-125zM426 854q116 0 210-72l-478-480q-72 94-72 210 0 142 100 242t240 100zM696 722q72-94 72-210 0-142-100-242t-242-100q-116 0-208 72z"],
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61720,
+                "grid": 0
+            },
+            "properties": { "id": 24, "order": 25, "ligatures": "", "prevSize": 32, "code": 61720, "name": "uniF118" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 23
+        },
+        {
+            "icon": {
+                "paths": ["M427 86q177 0 302 125t125 301-125 301-302 125-302-125-125-301 125-301 302-125zM86 512q0 118 72 210l478-480q-92-72-210-72-140 0-240 100t-100 242zM426 854q142 0 242-100t100-242q0-118-72-210l-478 480q92 72 208 72z"],
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61721,
+                "grid": 0
+            },
+            "properties": { "id": 25, "order": 26, "ligatures": "", "prevSize": 32, "code": 61721, "name": "uniF119" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 24
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M768 896h86v86h-86q-88 0-170-42-82 40-172 40t-170-40q-84 42-170 42h-86v-86h86q90 0 170-56 78 54 171 54t171-54q80 56 170 56zM84 810l-82-284q-6-16 2-34 8-16 26-20l56-18v-198q0-36 25-61t59-25h128v-128h256v128h128q36 0 61 25t25 61v198l54 18q18 4 26 20t2 34l-80 284h-2q-96 0-170-84-76 84-172 84t-170-84q-74 84-170 84h-2zM170 256v170l256-84 256 84v-170h-512z"
+                ],
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "defaultCode": 61722,
+                "grid": 0
+            },
+            "properties": { "id": 26, "order": 27, "ligatures": "", "prevSize": 32, "code": 61722, "name": "uniF11A" },
+            "setIdx": 0,
+            "setId": 0,
+            "iconIdx": 25
+        }
+        
+    ],
+    "height": 1024,
+    "metadata": { "name": "icomoon" },
+    "preferences": {
+        "showGlyphs": true,
+        "showCodes": true,
+        "showQuickUse": true,
+        "showQuickUse2": true,
+        "showSVGs": true,
+        "fontPref": { "prefix": "icon-", "metadata": { "fontFamily": "icomoon" }, "metrics": { "emSize": 1024, "baseline": 12.5 }, "embed": false },
+        "imagePref": { "prefix": "icon-", "png": true, "useClassSelector": true, "color": 0, "bgColor": 16777215 },
+        "historySize": 50
+    }
+}
